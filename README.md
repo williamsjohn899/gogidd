@@ -1,0 +1,2 @@
+# gogidd
+Daily digest notes
